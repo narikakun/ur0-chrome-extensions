@@ -51,6 +51,7 @@ function qrDownload () {
 }
 
 document.querySelector('#qrButton').addEventListener('click', qrDownload)
+document.querySelector('#copy').addEventListener('click', copyValue)
 
 createShortUrl();
 
