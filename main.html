@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="left">
+            <div class="box">
+                <input value="Loading..." id="shortLink" readonly>
+                <button id="copy" onclick="copyValue()"><img src="images/copy.png" width="20px"></button>
+            </div>
+            <div class="qrButton" id="qrButton"></div>
+        </div>
+        <div id="qrcode"></div>
+        <script src="qrcode.min.js"></script>
+        <script src="main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+{
+  "ext_name": { "message": "ur0.cc Chrome Extensions" },
+  "ext_desc": { "message": "Create a short URL for ur0.cc with one click." },
+  "saveQr": { "message": "Save QR Code" },
+  "correctUrl": { "message": "Only correct URLs can be shortened." }
+}

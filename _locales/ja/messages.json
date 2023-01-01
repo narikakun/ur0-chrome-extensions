@@ -1,0 +1,6 @@
+{
+  "ext_name": { "message": "ur0.cc Chrome拡張機能" },
+  "ext_desc": { "message": "ワンクリックでur0.ccの短縮URLを作成することができます。" },
+  "saveQr": { "message": "QRコードを保存" },
+  "correctUrl": { "message": "正しいURLのみ短縮出来ます" }
+}
